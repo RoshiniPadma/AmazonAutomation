@@ -1,0 +1,8 @@
+[0902/144809.743:ERROR:file_io_win.cc(182)] CreateFile C:\Users\Zara\AppData\Local\Temp\scoped_dir3252_10155\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0902/150140.728:ERROR:file_io_win.cc(182)] CreateFile C:\Users\Zara\AppData\Local\Temp\scoped_dir17612_17083\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0902/160027.837:ERROR:file_io_win.cc(182)] CreateFile C:\Users\Zara\AppData\Local\Temp\scoped_dir2576_13905\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0902/193540.968:ERROR:file_io_win.cc(182)] CreateFile C:\Users\Zara\AppData\Local\Temp\scoped_dir15544_15775\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0902/195836.015:ERROR:file_io_win.cc(182)] CreateFile C:\Users\Zara\AppData\Local\Temp\scoped_dir14032_26651\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0902/203317.331:ERROR:file_io_win.cc(182)] CreateFile C:\Users\Zara\AppData\Local\Temp\scoped_dir16692_10787\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0902/204807.000:ERROR:file_io_win.cc(182)] CreateFile C:\Users\Zara\AppData\Local\Temp\scoped_dir12220_442\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0903/191716.021:ERROR:file_io_win.cc(182)] CreateFile C:\Users\Zara\AppData\Local\Temp\scoped_dir12440_18268\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
