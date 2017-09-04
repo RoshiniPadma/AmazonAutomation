@@ -7,7 +7,6 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
-
 import org.openqa.selenium.support.ui.Select;
 
 public class AutomationScripts extends ReUsableMethods{
@@ -57,7 +56,8 @@ public class AutomationScripts extends ReUsableMethods{
 		ArrayList<WebElement> searchResults=(ArrayList<WebElement>) driver.findElements(byVar);
 		
 		String expectedResult=searchResults.get(0).getText();
-	
+		
+		
 		//click on the first result with 'Apple iPhone 6'
 		if (ReUsableMethods.browserName.equalsIgnoreCase("Edge"))
 			clickButtonEdge(searchResults.get(0), searchResults.get(0).getText());
